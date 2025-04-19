@@ -25,13 +25,13 @@ letting users ask questions about Scripture and get thoughtful answers.
       3. Open the `index.html` file in your browser. Type a prompt, click "Send", and see the response from the local AI.
 
 ## Project Overview
-    ### 1. Project Selection and Motivation:
+    1. Project Selection and Motivation:
     We built a simple, local AI interface using Ollama with the idea of creating a tool that could help with Bible study.
     The original plan was to make something that could explain verses, answer questions, or just give insight when reading Scripture.
     That said, once we had it working, we realized it could be used for way more than just Bible content. Anything you ask, it’ll try
     to respond to. But the core idea was always to support personal Bible study without relying on external tools.
     
-    ### 2. System Design and Basic Functions
+    2. System Design and Basic Functions
     #What it does:
       - You type a question or prompt
       - Click send
